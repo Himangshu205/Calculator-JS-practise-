@@ -5,4 +5,5 @@ Purpose of this project:-
 I wanted to see if I can do basic javascript coding without the need of a revision and as I said I need to clear up things/doubts and keep my basics strong to work with frameworks like react and Vue
 this.
 
-##Features:-
+## Current Features:-
+
