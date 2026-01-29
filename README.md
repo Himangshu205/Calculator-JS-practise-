@@ -6,4 +6,6 @@ I wanted to see if I can do basic javascript coding without the need of a revisi
 this.
 
 ## Current Tech used:-
-
+- HTML
+- CSS
+- JAVASCRIPT
